@@ -1,5 +1,3 @@
-# MLOps Training
-
 ### Objective:
 
 1. Understand key stages in ML development lifecycle and key components in ML Systems Design.
